@@ -1,11 +1,16 @@
 .aaa{
-color:rgb(248, 8, 208);
+background-color:rgb(236, 78, 197);
 font-family: Verdana,"DejaVu Sans",sans-serif;
 }
 .aa{
     font-size: 24px;
 }
 #b{
-    color: #008000;
+    color: #0a2cee;
     font-size: 36px;
+}
+#c{
+    background-color:hsl(120, 100%, 72%);
+    font-size: 24px;
+    font-weight: bold;
 }
